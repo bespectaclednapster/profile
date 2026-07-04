@@ -475,7 +475,17 @@ h2 {
   }
 
   .brand-text {
-    display: none;
+    display: inline;
+    white-space: normal;
+    font-size: 0.95rem;
+    line-height: 1.2;
+    max-width: 230px;
+  }
+
+  .brand-mark {
+    width: 36px;
+    height: 36px;
+    flex: 0 0 36px;
   }
 
   h1 {
