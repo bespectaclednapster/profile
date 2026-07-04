@@ -1,0 +1,2 @@
+Add your resume PDF here and rename it to resume.pdf.
+Then add a Resume button in index.html using the instructions in README.md.
